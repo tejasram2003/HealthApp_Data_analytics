@@ -36,5 +36,9 @@ Basic Data Analytics have been done for this dataset.
 <p>The count of events is taken after grouping the components together. This would allow us to infer the number of events which are on a particular component. The inference can be observed as follows:</p>
 <img src="https://ik.imagekit.io/tejasram/screenshots/event_count.png?updatedAt=1694245020181" alt="Event count for components" width="700">
 
+<h3>Calories burnt by the user over a period of time:</h3>
+<p>The calories burnt by the user are calculated from the column 'Content'</p>
+<img src="https://ik.imagekit.io/tejasram/screenshots/event_count.png?updatedAt=1694245020181" alt="Event count for components" width="700">
+
 
 </body>
