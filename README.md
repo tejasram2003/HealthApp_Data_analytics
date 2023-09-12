@@ -38,7 +38,7 @@ Basic Data Analytics have been done for this dataset.
 
 <h3>Calories burnt by the user over a period of time:</h3>
 <p>The calories burnt by the user are calculated from the column 'Content'</p>
-<img src="https://ik.imagekit.io/tejasram/screenshots/event_count.png?updatedAt=1694245020181" alt="Event count for components" width="700">
+<img src="https://ik.imagekit.io/tejasram/screenshots/calories.png?updatedAt=1694530373365" alt="Event count for components" width="700">
 
 
 </body>
